@@ -1,0 +1,19 @@
+{
+  "name": "surveyjs-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "survey-creator-react": "^1.12.7",
+    "survey-react": "^1.12.7"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
